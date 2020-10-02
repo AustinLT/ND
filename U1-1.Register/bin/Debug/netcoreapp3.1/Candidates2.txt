@@ -1,0 +1,6 @@
+Matas;Mataitis;2001-02-21;185;Gynėjas;Saulė;FALSE;FALSE
+Juozas;Juozaitis;2001-09-04;190;Gynėjas;Saulė;TRUE;TRUE
+Rokas;Guobis;1998-08-24;186;Gynėjas;Žalgiris;TRUE;FALSE
+Petras;Petraitis;1988-05-06;195;Gynėjas;Rytas;TRUE;FALSE
+Ričardas;Spundulis;1990-05-06;205;Gynėjas;Žalgiris;TRUE;FALSE
+Ivanas;Ivanauskas;1994-06-22;188;Gynėjas;Rytas;FALSE;FALSE

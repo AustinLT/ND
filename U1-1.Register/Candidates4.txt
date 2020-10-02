@@ -1,0 +1,6 @@
+﻿Matas;Mockus;2001-02-21;185;Gynėjas;Saulė;FALSE;FALSE
+Paulius;Mockius;2001-09-04;190;Gynėjas;Saulė;FALSE;TRUE
+Rokas;Guobis;1998-08-24;186;Gynėjas;Žalgiris;FALSE;FALSE
+Lukas;Vilkis;1988-05-06;195;Gynėjas;Rytas;FALSE;FALSE
+Ričardas;Spundulis;1988-05-06;205;Gynėjas;Žalgiris;FALSE;FALSE
+Matas;Ivonis;1994-06-22;188;Gynėjas;Rytas;FALSE;FALSE
