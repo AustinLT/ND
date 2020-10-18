@@ -1,0 +1,15 @@
+﻿| Numeris | Gamintojas | Modelis   | Metai | Mėnuo | Tech. ap. gal. data | Kuras     | Vid. sąnaudos |
+
+|  JLS465 | BMW        | X7        |  2004 |     3 |         2021-01-23  | dyzelis   |            4,00 |
+|  AKF435 | Audi       | A4        |  2005 |     4 |         2021-02-23  | benzinas  |            5,30 |
+|  DSF342 | Mazda      | 3         |  1990 |    11 |         2021-02-24  | elektrine |            3,00 |
+|  DDD999 | Volvo      | V70       |  2009 |     9 |         2021-09-29  | dyzelis   |            4,80 |
+|  UIF805 | Audi       | A80       |  2000 |    12 |         2021-02-27  | benzinas  |            9,30 |
+|  DFD499 | Volvo      | S60       |  2016 |     4 |         2021-09-19  | dyzelis   |            8,00 |
+|  JXF875 | Audi       | A80       |  1990 |     2 |         2021-01-27  | benzinas  |            6,30 |
+|  DID234 | Passat     | B6        |  1996 |     5 |         2021-03-25  | benzinas  |            5,60 |
+|  FVW456 | Ford       | Focus     |  2016 |     4 |         2021-05-21  | benzinas  |            7,90 |
+|  DFD759 | Volvo      | S60       |  2006 |     1 |         2021-09-19  | dyzelis   |           10,50 |
+|  KHT367 | Volvo      | S60       |  2013 |     7 |         2021-10-19  | benzinas  |            8,00 |
+|  FGF875 | Audi       | A80       |  1994 |     5 |         2021-05-27  | dujos     |            7,30 |
+|  OLF279 | Audi       | A80       |  1998 |     6 |         2021-05-27  | dujos     |            7,30 |
